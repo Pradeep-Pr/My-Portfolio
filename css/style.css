@@ -376,8 +376,8 @@ span{
     color: var(--main-color) !important;
 }
 .card1:hover{
-    transform: translateY(-5px) scale(1.0 );
-    box-shadow: 0px 10px 20px #403f3f;
+    transform: translateY(-.7rem);
+    box-shadow: 0px 10px 20px #ccc;
 
 }
 .card2{
