@@ -20,7 +20,7 @@ section{
     --second-bg-colore:#323946;
     --text-color: #ffffffb3;
     --primary-color: #78e5c2;
-    --hover-color: #d900ff;
+    --hover-color: #00ffb8;
     --not-color: #ffffff;
     --main-color: #00fbffa1;
     /* --main-color:rgb(14, 255, 253); */
@@ -647,6 +647,7 @@ footer{
         color: #ccc;
         font-size: 25px;
         padding-left: 20px;
+        cursor: pointer;
     }
     #close{
         display: inline;
