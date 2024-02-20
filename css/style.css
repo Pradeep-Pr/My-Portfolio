@@ -158,7 +158,7 @@ span{
     background-position: center;
     background-clip: text;
     -webkit-background-clip: text;
-    color: transparent;
+    color: transparent; 
 
 }
 .home-contact p{
