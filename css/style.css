@@ -153,12 +153,11 @@ span{
     font-size: 5.6rem;
     font-weight: 700;
     line-height: 1.3;
-    background-image: url(image/p.jpg);
     background-size: cover;
     background-position: center;
     background-clip: text;
     -webkit-background-clip: text;
-    color: transparent; 
+    color: #0260cc; 
 
 }
 .home-contact p{
